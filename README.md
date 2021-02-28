@@ -11,7 +11,7 @@ You will implement several variations of the binary search algorithm.
 
 ## Tasks
 
-Complete the following tasks:
+Complete the following task:
 
 1. Fork the [binary\_search repo](https://github.com/mikeizbicki/binary_search) and enable github actions
 1. Update the `README.md` file so that the test case badges point to your forked repo
